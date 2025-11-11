@@ -113,7 +113,7 @@ Example:
 
 ## 👨‍💻 Author
 
-**Developed by:** Om Mankar
+**Developed by:** Om Bankar
 **Email:** [ombankar25@gmail.com](mailto:ombankar25@gmail.com)
 
 
